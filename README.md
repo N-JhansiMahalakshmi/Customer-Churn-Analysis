@@ -82,10 +82,12 @@ To deliver an interactive analytics solution that:
 ## 📸 Screenshots / Demos  
 
 - **Churn Distribution Dashboard**  
-  ![Churn Dashboard 1](D:/BA_Projects/Telco/Customer churn analysis snapshot.jpg)  
+  ![Churn Dashboard 1]
+  ![WhatsApp Image 2025-09-01 at 22 41 37_50397bc2](https://github.com/user-attachments/assets/4577181e-8baf-4a88-b2b4-3fff8496111c)
 
 - **Risk and Revenue Dashboard**  
-  ![Churn Dashboard 2](D:/BA_Projects/Telco/Customer Churn Analysis Snapshot(2).jpg)  
+  ![Churn Dashboard 2] ![WhatsApp Image 2025-09-01 at 22 41 56_8880351d](https://github.com/user-attachments/assets/12c14282-2c38-40b4-9796-af2731b66f59)
+ 
 
 ---
 
